@@ -1,4 +1,3 @@
-import { Details } from '@material-ui/icons';
 import React,{useState,useEffect} from 'react'
 import {  TbTruckDelivery } from 'react-icons/tb';
 import  { useNavigate } from "react-router-dom";
