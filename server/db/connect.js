@@ -12,4 +12,5 @@ mongoose.connect(DB,{
     console.log(`connection successfull`)
 }).catch((err)=>{
     console.log("no connection")
+    
 })
