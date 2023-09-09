@@ -1,6 +1,8 @@
 const User = require("../models/user")
 const express = require('express');
 const jwt = require("jsonwebtoken")
+
+const dotenv = require("dotenv")
 // const app = express();
 // const cookieParser = require('cookie-parser')
 // app.use(cookieParser())
